@@ -24,7 +24,7 @@ Employees are the backbone of the organization. Organization's performance is he
      
      
 
-![](https://github.com/Edelibu/Endelibu_portfolio/blob/main/images/Screen%20Shot%202021-05-12%20at%2010.55.14%20PM.png)
+![](/images/Screen%20Shot%202021-05-12%20at%2010.55.14%20PM.png)
 
 ## Project 2: [Factors That Drive House Prices](https://drive.google.com/file/d/1R4Z7QSIbFaGqxuky9w4WM9afiHuFeQO8/view?usp=sharing)
 
