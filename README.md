@@ -33,7 +33,8 @@ The original data am working with comes from kaggle which is known as the Ames h
 						
 
 
-❮img src="/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png" ❯
+<img src="/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png" ❯
+     ![](https://github.com/Edelibu/Endelibu_portfolio/blob/main/images/Screen%20Shot%202021-05-20%20at%2012.08.02%20AM.png)
 
 
 
