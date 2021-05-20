@@ -22,14 +22,14 @@ Employees are the backbone of the organization. Organization's performance is he
      3, Will the model save lots of money?
      4, Which business unit faces the attrition problem?
      
-     ![](/images/Screen%20Shot%202021-05-12%20at%209.15.45%20PM.png)
+     
 
 ## Project 2: [Factors That Drive House Prices](https://drive.google.com/file/d/1R4Z7QSIbFaGqxuky9w4WM9afiHuFeQO8/view?usp=sharing)
 
 In this scenario, I am working as an Analyst at an investment bank. The team that I am working with wants to understand how it should allocate dollarsearmarked for investment into mortgage backed securities. They have asked me to look into the factors that drive home prices.						
 The original data am working with comes from kaggle which is known as the Ames housing dataset was compiled by Dean De Cock for use in data science education.						
 						
-(https://github.com/Edelibu/Endelibu_portfolio/blob/main/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png)
+![](https://github.com/Edelibu/Endelibu_portfolio/blob/main/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png)
 
 
 
