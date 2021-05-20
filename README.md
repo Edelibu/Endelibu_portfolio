@@ -24,6 +24,8 @@ Employees are the backbone of the organization. Organization's performance is he
      
      
 
+![](https://github.com/Edelibu/Endelibu_portfolio/blob/main/images/Screen%20Shot%202021-05-12%20at%2010.55.14%20PM.png)
+
 ## Project 2: [Factors That Drive House Prices](https://drive.google.com/file/d/1R4Z7QSIbFaGqxuky9w4WM9afiHuFeQO8/view?usp=sharing)
 
 In this scenario, I am working as an Analyst at an investment bank. The team that I am working with wants to understand how it should allocate dollarsearmarked for investment into mortgage backed securities. They have asked me to look into the factors that drive home prices.						
