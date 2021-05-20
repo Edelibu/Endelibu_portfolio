@@ -30,8 +30,8 @@ In this scenario, I am working as an Analyst at an investment bank. The team tha
 The original data am working with comes from kaggle which is known as the Ames housing dataset was compiled by Dean De Cock for use in data science education.						
 						
 
-< img src="/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png" >
-![](/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png)
+
+❮img src="/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png" ❯
 
 
 
