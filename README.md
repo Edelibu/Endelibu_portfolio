@@ -34,7 +34,7 @@ The original data am working with comes from kaggle which is known as the Ames h
      ![](/images/Screen%20Shot%202021-05-20%20at%2012.08.02%20AM.png)
 
 
-## Project 2: [Lariat Rental Car Business Analysis](https://drive.google.com/file/d/1oRvRyJSf9Ibgi2Y-HB3MYgIZcpxjLAPY/view?usp=sharing)
+## Project 3: [Lariat Rental Car Business Analysis](https://drive.google.com/file/d/1oRvRyJSf9Ibgi2Y-HB3MYgIZcpxjLAPY/view?usp=sharing)
 
 Created Excel model to help make data informed decisions about car fleet, based on the observed costs and revenue data from the fleet in recent years.
 Built using Excel for analysis and PowerPoint for storytelling and presentation. 
