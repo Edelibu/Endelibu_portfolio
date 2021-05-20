@@ -9,19 +9,17 @@ The data set that I used is a CSV file supplied by Kaggle[https://drive.google.c
 
 Employees are the backbone of the organization. Organization's performance is heavily based on the quality of the employees. Challenges that an organization has to face due employee attrition are:
 
-Loss of experienced employees
+     1, Loss of experienced employees
+     2, Expense in terms of both money and time to train new employees
+     3, Impact on productivity
+     4, Impact on Profit
 
-Expense in terms of both money and time to train new employees
+# Brainstorm questions
 
-Impact on productivity
+     1, What factors are contributing more to employee attrition?
 
-Impact on Profit
+     2, What type of measures should the company take in order to retain their
 
-Brainstorm questions
-What factors are contributing more to employee attrition?
+     3, Will the model save lots of money?
 
-What type of measures should the company take in order to retain their
-
-Will the model save lots of money?
-
-Which business unit faces the attrition problem?
+     4, Which business unit faces the attrition problem?
