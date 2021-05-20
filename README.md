@@ -31,6 +31,7 @@ The original data am working with comes from kaggle which is known as the Ames h
 						
 
 < img src="/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png" >
+![](/images/Screen%20Shot%202021-05-12%20at%2011.27.30%20PM.png)
 
 
 
