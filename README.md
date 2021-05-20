@@ -31,7 +31,7 @@ Employees are the backbone of the organization. Organization's performance is he
 In this scenario, I am working as an Analyst at an investment bank. The team that I am working with wants to understand how it should allocate dollarsearmarked for investment into mortgage backed securities. They have asked me to look into the factors that drive home prices.						
 The original data am working with comes from kaggle which is known as the Ames housing dataset was compiled by Dean De Cock for use in data science education.						
 						
-     ![](/images/Screen%20Shot%202021-05-20%20at%2012.08.02%20AM.png)
+    
 
 
 ## Project 3: [Lariat Rental Car Business Analysis](https://drive.google.com/file/d/1oRvRyJSf9Ibgi2Y-HB3MYgIZcpxjLAPY/view?usp=sharing)
