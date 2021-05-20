@@ -22,7 +22,7 @@ Employees are the backbone of the organization. Organization's performance is he
      3, Will the model save lots of money?
      4, Which business unit faces the attrition problem?
      
-     [](https://github.com/Edelibu/Endelibu_portfolio/blob/main/images/Screen%20Shot%202021-05-12%20at%209.15.45%20PM.png)
+     [](/images/Screen%20Shot%202021-05-12%20at%209.15.45%20PM.png)
 
 ## Project 2: [Factors That Drive House Prices](https://drive.google.com/file/d/1R4Z7QSIbFaGqxuky9w4WM9afiHuFeQO8/view?usp=sharing)
 
